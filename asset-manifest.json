@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trivial-pursuit-quiz/static/css/main.544459e4.css",
-    "main.js": "/trivial-pursuit-quiz/static/js/main.b4a969cc.js",
-    "static/js/453.5deea1b8.chunk.js": "/trivial-pursuit-quiz/static/js/453.5deea1b8.chunk.js",
-    "index.html": "/trivial-pursuit-quiz/index.html",
-    "main.544459e4.css.map": "/trivial-pursuit-quiz/static/css/main.544459e4.css.map",
-    "main.b4a969cc.js.map": "/trivial-pursuit-quiz/static/js/main.b4a969cc.js.map",
-    "453.5deea1b8.chunk.js.map": "/trivial-pursuit-quiz/static/js/453.5deea1b8.chunk.js.map"
+    "main.css": "/trivial-pursuit/static/css/main.544459e4.css",
+    "main.js": "/trivial-pursuit/static/js/main.48d9b28c.js",
+    "static/js/453.5deea1b8.chunk.js": "/trivial-pursuit/static/js/453.5deea1b8.chunk.js",
+    "index.html": "/trivial-pursuit/index.html",
+    "main.544459e4.css.map": "/trivial-pursuit/static/css/main.544459e4.css.map",
+    "main.48d9b28c.js.map": "/trivial-pursuit/static/js/main.48d9b28c.js.map",
+    "453.5deea1b8.chunk.js.map": "/trivial-pursuit/static/js/453.5deea1b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.544459e4.css",
-    "static/js/main.b4a969cc.js"
+    "static/js/main.48d9b28c.js"
   ]
 }
